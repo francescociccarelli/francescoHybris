@@ -1,0 +1,23 @@
+INSERT Food; codeFood; nameFood
+;f1;pomodoro
+;f2;mozzarella
+;f3;prosciutto
+;f4;pane
+;f5;salame
+;f6;carota
+;f7;olio
+;f8;farina
+;f9;mais;
+;f10;aglio
+
+INSERT Recipe; codeRecipe; nameRecipe
+;r1;asia
+;r2;africa
+;r3;europa
+;r4;oceania
+;r5;australia
+;r6;cina
+;r7;giappone
+;r8;america
+;r9;alaska
+;r10;danimarca
