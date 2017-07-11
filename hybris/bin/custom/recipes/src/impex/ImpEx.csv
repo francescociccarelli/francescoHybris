@@ -1,0 +1,40 @@
+INSERT Food; code; name
+;1;carrot
+;2;peas
+;3;rocket
+;3;cheddar
+;4;hamburger
+;5;sausage
+;6;lettuce
+;7;onion
+;8;pepper
+;9;chicken
+;10;eggs
+
+INSERT Recipe; codeRecipe; nameRecipe; recipeType; servings
+;1; Matriciana; first plate; 2
+;2; Salad; second dish; 3
+;3; Pasta with tomato; 4
+;4; Meat; second dish; 2
+;5; Sausage; second dish; 2
+;r6; Roast; sneak; 3
+;7; Chicken; second dish; 3
+;8; Toast; sneak; 1
+
+
+
+
+INSERT RecipeEntry; entryNumber; displayName; food(code)
+;recipe1; 1,name3, 5
+;recipe2; 5,name8,6
+;recipe3; 2,name3,7
+;recipe4; 3,name5,8
+;recipe5; 4,name7,9
+;recipe6; 6, name4,10
+;recipe7; 7,name5,9
+;recipe8; 8,name6,11
+;recipe9; 9,name8,12
+;recipe10; 11,name6,13
+
+
+

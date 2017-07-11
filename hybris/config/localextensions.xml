@@ -20,5 +20,6 @@
 		<extension name="cuppy"/>
 		<extension name="cuppytrail" />
 		<extension name="recipes" />
+		<extension name="cuppytrailhmc" />
     </extensions>
 </hybrisconfig>
